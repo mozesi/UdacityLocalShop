@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FRESH WORLD</string>
+    <string name="shop_name">FRESH WORLD CORNER SHOP</string>
+    <string name="about_text">We offer best quality fruits and vegetables at best prices.
+        We offer both online payments through credit card offline payments through cash on Delivery.
+        We offer free delivery of our orders within Mzuzu on every order that is above $75.
+    </string>
+    <string name="contact_details">+265 881 48 24 72</string>
+    <string name="work_hours">Mon - Sun, 6:00am - 9:00pm</string>
+    <string name="location_details">516 W North Chibanja, MZ</string>
+    <string name="about_us">ABOUT US</string>
+    <string name="email_text">msukwamose1@gmail.com</string>
+</resources>
